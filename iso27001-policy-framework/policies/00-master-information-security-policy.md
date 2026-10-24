@@ -6,10 +6,7 @@
 | **Document ID** | POL-ISMS-00 |
 | **Version** | 1.0.0 |
 | **Classification** | Public / Internal |
-| **Owner / Author** | Veera Ranjane (Head of Information Security & GRC) |
-| **Approved By** | Alex Rivera (CEO) |
-| **Effective Date** | October 24, 2026 |
-| **Review Cadence** | Annual |
+| **Owner** | Information Security Department |
 | **ISO 27001:2022 Ref** | Clauses 5.1, 5.2, 5.3, 6.2; Control 5.1 |
 
 ---

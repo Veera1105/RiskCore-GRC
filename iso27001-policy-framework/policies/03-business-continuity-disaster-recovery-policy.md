@@ -6,10 +6,7 @@
 | **Document ID** | POL-SEC-03 |
 | **Version** | 1.0.0 |
 | **Classification** | Internal |
-| **Owner / Author** | VP of Engineering & DevOps (Reviewed by Veera Ranjane) |
-| **Approved By** | Alex Rivera (CEO) |
-| **Effective Date** | October 24, 2026 |
-| **Review Cadence** | Annual |
+| **Owner** |Information Security Department|
 | **ISO 27001:2022 Ref** | Controls 5.29, 5.30, 8.13, 8.14 |
 
 ---

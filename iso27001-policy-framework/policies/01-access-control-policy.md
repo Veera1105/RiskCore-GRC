@@ -6,10 +6,7 @@
 | **Document ID** | POL-SEC-01 |
 | **Version** | 1.0.0 |
 | **Classification** | Internal |
-| **Owner / Author** | Veera Ranjane (Head of Information Security & GRC) |
-| **Approved By** | Alex Rivera (CEO) |
-| **Effective Date** | October 24, 2026 |
-| **Review Cadence** | Annual |
+| **Owner** | Information Security Department |
 | **ISO 27001:2022 Ref** | Controls 5.15, 5.16, 5.17, 5.18, 8.2, 8.5 |
 
 ---
