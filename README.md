@@ -20,7 +20,5 @@
 
 ---
 
-### 👤 Author
-**Veera Ranjane**  
-*Information Security & GRC Consultant*  
+
 [GitHub Profile](https://github.com/Veera1105)
