@@ -56,6 +56,6 @@ My work bridges the gap between technical operations and business risk strategy�
 
 Feel free to connect or reach out regarding GRC opportunities, risk management consulting, or security governance discussions:
 
-* ✉ **Email:** [veera.ranjane@gmail.com](mailto:veera.ranjane@gmail.com)[cite: 128]
-* 🔗 **LinkedIn:** [linkedin.com/in/veera-ranjane](https://www.linkedin.com/in/veera-ranjane)[cite: 128]
-* 💻 **GitHub:** [github.com/Veera1105](https://github.com/Veera1105)[cite: 128]
+* ✉ **Email:** [veera.ranjane@gmail.com](mailto:veera.ranjane@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/veera-ranjane](https://www.linkedin.com/in/veera-ranjane)
+* 💻 **GitHub:** [github.com/Veera1105](https://github.com/Veera1105)
