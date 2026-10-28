@@ -24,31 +24,31 @@ My work bridges the gap between technical operations and business risk strategy�
 
 ### Core Competencies
 
-* **Risk Management & Assessment:** Qualitative & Semi-Quantitative Risk Analysis, Threat & Vulnerability Modeling, Inherent vs. Residual Risk Calculation, Remediation Roadmap Strategy[cite: 128].
-* **Governance & ISMS Implementation:** Information Security Policy Design, ISO/IEC 27001:2022 Annex A Control Mapping, Governance Metrics & Security KPIs[cite: 128].
-* **Audit & Control Assurance:** IT General Controls (ITGC) Evaluation, Access Recertification, Business Continuity & Disaster Recovery (BCDR) Drill Testing, SOC 2 Trust Services Criteria Alignment[cite: 128].
-* **Data Protection & Regulatory Compliance:** Digital Personal Data Protection Act (DPDPA 2023) Compliance Mapping, Data Fiduciary Requirements, Consent Lifecycle Management, Privacy-by-Design Principles[cite: 128].
+* **Risk Management & Assessment:** Qualitative & Semi-Quantitative Risk Analysis, Threat & Vulnerability Modeling, Inherent vs. Residual Risk Calculation, Remediation Roadmap Strategy.
+* **Governance & ISMS Implementation:** Information Security Policy Design, ISO/IEC 27001:2022 Annex A Control Mapping, Governance Metrics & Security KPIs.
+* **Audit & Control Assurance:** IT General Controls (ITGC) Evaluation, Access Recertification, Business Continuity & Disaster Recovery (BCDR) Drill Testing, SOC 2 Trust Services Criteria Alignment.
+* **Data Protection & Regulatory Compliance:** Digital Personal Data Protection Act (DPDPA 2023) Compliance Mapping, Data Fiduciary Requirements, Consent Lifecycle Management, Privacy-by-Design Principles.
 
 ---
 
 ### Framework & Technical Literacy
 
-* **Information Security & Risk Frameworks:** ISO/IEC 27001:2022, NIST SP 800-30 Rev. 1, NIST Cybersecurity Framework (CSF 2.0), NIST SP 800-37 (RMF)[cite: 128].
-* **Audit & Compliance Controls:** SOC 2 Trust Services Criteria (Security, Availability, Confidentiality), IT General Controls (ITGC), Access Recertification, BCDR Testing[cite: 128].
-* **Privacy & Regulatory Compliance:** Digital Personal Data Protection Act (DPDPA 2023), GDPR, Data Minimization, Privacy Impact Assessments (PIA)[cite: 128].
+* **Information Security & Risk Frameworks:** ISO/IEC 27001:2022, NIST SP 800-30 Rev. 1, NIST Cybersecurity Framework (CSF 2.0), NIST SP 800-37 (RMF).
+* **Audit & Compliance Controls:** SOC 2 Trust Services Criteria (Security, Availability, Confidentiality), IT General Controls (ITGC), Access Recertification, BCDR Testing.
+* **Privacy & Regulatory Compliance:** Digital Personal Data Protection Act (DPDPA 2023), GDPR, Data Minimization, Privacy Impact Assessments (PIA).
 * **Tools & Analytics:** Microsoft Excel (VLOOKUP, PivotTables, Dynamic Dashboards, Conditional Formatting), Git/GitHub, Markdown.
 
 ---
 
 ### Certifications
 
-* **ISO/IEC 27001:2022 Information Security Associate Certification** — SkillFront[cite: 128]
-* **Implementing NIST Risk Management Framework (RMF)** — Udemy[cite: 128]
-* **Digital Personal Data Protection Act (DPDPA) Certificate** — DPDPA.com[cite: 128]
+* **ISO/IEC 27001:2022 Information Security Associate Certification** — SkillFront
+* **Implementing NIST Risk Management Framework (RMF)** — Udemy
+* **Digital Personal Data Protection Act (DPDPA) Certificate** — DPDPA.com
 * **Google Cybersecurity Professional Certificate** — Coursera
-* **Cybersecurity Analyst** — Quick Heal[cite: 128]
-* **Introduction to Cybersecurity** — Cisco[cite: 128]
-* **Diploma in Cybersecurity** — Alison[cite: 128]
+* **Cybersecurity Analyst** — Quick Heal
+* **Introduction to Cybersecurity** — Cisco
+* **Diploma in Cybersecurity** — Alison
 
 ---
 
