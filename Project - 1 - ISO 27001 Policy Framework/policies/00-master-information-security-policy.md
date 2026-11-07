@@ -28,7 +28,7 @@ This policy applies to:
 - **Chief Executive Officer (CEO)**:
   - Allocates budgetary and technical resources for the ISMS.
   - Formally approves major risk treatment decisions and policies.
-- **Head of Information Security & GRC (Veera Ranjane)**:
+- **Head of Information Security & GRC**:
   - Serves as the designated ISMS Management Representative.
   - Coordinates internal and external audits, tracks corrective action plans (CAPA), and monitors risk register remediation.
 - **VP of Engineering & DevOps**:
