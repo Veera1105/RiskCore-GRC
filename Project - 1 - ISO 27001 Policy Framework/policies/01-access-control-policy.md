@@ -44,7 +44,7 @@ Applies to all identity accounts, service roles, machine-to-machine integrations
 - Break-glass emergency admin credentials must be secured in a dual-custody digital safe; any access triggers immediate PagerDuty alerts to the Security Lead.
 
 ### 3.5 Quarterly Access Reviews
-- The Head of GRC (Veera Ranjane) oversees a mandatory **Quarterly Access Review** covering AWS IAM, GitHub Enterprise, Okta, and Google Workspace.
+- The Head of GRC oversees a mandatory **Quarterly Access Review** covering AWS IAM, GitHub Enterprise, Okta, and Google Workspace.
 - System owners must review and electronically certify user access rosters within 10 business days of quarter-end. Inactive accounts (>60 days) are decommissioned.
 
 ## 4. Document Revision History
