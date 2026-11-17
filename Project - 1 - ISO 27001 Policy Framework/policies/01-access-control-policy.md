@@ -41,7 +41,7 @@ Applies to all identity accounts, service roles, machine-to-machine integrations
 ### 3.4 Privileged Access Management (PAM)
 - Direct root/admin account access to AWS production environments or production PostgreSQL databases is disabled.
 - Engineers require temporary, logged, time-bound session credentials (AWS IAM Identity Center session or ephemeral SSH via Teleport) tied to an approved Jira change ticket.
-- Break-glass emergency admin credentials must be secured in a dual-custody digital safe; any access triggers immediate PagerDuty alerts to the Security Lead (Veera Ranjane).
+- Break-glass emergency admin credentials must be secured in a dual-custody digital safe; any access triggers immediate PagerDuty alerts to the Security Lead.
 
 ### 3.5 Quarterly Access Reviews
 - The Head of GRC (Veera Ranjane) oversees a mandatory **Quarterly Access Review** covering AWS IAM, GitHub Enterprise, Okta, and Google Workspace.
